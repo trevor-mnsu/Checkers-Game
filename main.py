@@ -1,13 +1,14 @@
+'''
+Checkers Game
+CIS 121 Final Project
+Matt Gocool - Liam Schoenberg - Trevor Cloutier
+'''
+
 import os
 from functions import *
 from checkerboard import *
 from stats import Stats
 
-'''
-Checkers Game
-CIS 121 Final Project
-Matt - Liam - Trevor
-'''
 
 '''Base Variables'''
 position_dict = {"A":0, "B":1, "C":2, "D":3, "E":4, "F":5, "G":6, "H":7}  # Converts letter input to a index position
