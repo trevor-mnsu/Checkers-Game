@@ -1,2 +1,2 @@
 # Checkers-Game
-This is a checker game that my buddies and I created for our CIS 121 class.
+This is a checker game created as a final project for CIS 121 by Matt Gocool, Liam Schoenberg and Trevor Cloutier. It uses many of the basics of computer science like designing with classes and fuctions, loops, collections, and using I/O files.
